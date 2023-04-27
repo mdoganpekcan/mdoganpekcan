@@ -38,8 +38,7 @@
 - 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](mehmetdoganpekcan.com)
 - 💬 Ask me about **C#, HTML,CSS**
 - 📫 How to reach me **mehmetdoganpekcan@gmail.com**
-<hr> 
-<hr> 
+- 
 <br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
