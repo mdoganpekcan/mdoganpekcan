@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](http://mehmetdoganpekcan.com)
 - 💬 Ask me about **C#, HTML,CSS**
-- 📫 How to reach me<a href="mailto:mehmetdoganpekcan@gmail.com" target="_blank">**mehmetdoganpekcan@gmail.com**</a>
+- 📫 How to reach me <a href="mailto:mehmetdoganpekcan@gmail.com" target="_blank">**mehmetdoganpekcan@gmail.com**</a>
 
 <h1 align="center"></h1>
 
@@ -62,3 +62,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/techmoi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techmoi" /></a></p><br><br>
+
