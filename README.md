@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mehmet Doğan Pekcan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🏫 I'm learning on USKUDAR UNIVERSITY as Computer Engineer
+- 🏫 I'm learning on AKDENİZ UNIVERSITY as Computer Engineer
 
 - 🌱 I’m currently learning **Python**
 
