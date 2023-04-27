@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](http://mehmetdoganpekcan.com)
 - 💬 Ask me about **C#, HTML,CSS**
-- 📫 How to reach me **mailto:mehmetdoganpekcan@gmail.com**
+- 📫 How to reach me<a href="mailto:mehmetdoganpekcan@gmail.com" target="_blank">**mehmetdoganpekcan@gmail.com**</a>
 
 <h1 align="center"></h1>
 
