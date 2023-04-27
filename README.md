@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](mehmetdoganpekcan.com)
+- 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](mehmetdogfanpekcan.com)
 
 - 💬 Ask me about **C#, HTML,CSS**
 
