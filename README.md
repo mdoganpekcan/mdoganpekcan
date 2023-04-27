@@ -32,9 +32,11 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently learning Python<br>🏫 I'm learning on AKDENİZ UNIVERSITY as Computer Engineer<br>👨‍💻 All of my projects are available at mehmetdoganpekcan.com<br>💬 Ask me about C#, HTML,CSS<br>📫 How to reach me mehmetdoganpekcan@gmail.com</p>
-
-###
+- 🏫 I'm learning on USKUDAR UNIVERSITY as Computer Engineer
+- 🌱 I’m currently learning **Python**
+- 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](mehmetdoganpekcan.com)
+- 💬 Ask me about **C#, HTML,CSS**
+- 📫 How to reach me **mehmetdoganpekcan@gmail.com**
 
 <br clear="both">
 
