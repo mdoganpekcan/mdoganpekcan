@@ -18,18 +18,14 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Mehmet Doğan </h1>
+<h1 align="center">Hi there, I'm Mehmet Doğan Pekcan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 - 🏫 I'm learning on AKDENIZ UNIVERSITY as Computer Engineer
-
 - 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](mehmetdogfanpekcan.com)
-
+- 👨‍💻 All of my projects are available at [mehmetdoganpekcan.com](http://mehmetdoganpekcan.com)
 - 💬 Ask me about **C#, HTML,CSS**
-
-- 📫 How to reach me **mehmetdoganpekcan@gmail.com**
+- 📫 How to reach me **mailto:mehmetdoganpekcan@gmail.com**
 
 <h1 align="center"></h1>
 
