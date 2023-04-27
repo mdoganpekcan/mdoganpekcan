@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Mehmet Doğan Pekcan</h1>
+<h1 align="center">Hi there, I'm Mehmet Doğan </h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 - 🏫 I'm learning on AKDENIZ UNIVERSITY as Computer Engineer
