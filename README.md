@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there , I'm Mehmet Doğan Pekcan 👋</h1>
 
 ###
 
